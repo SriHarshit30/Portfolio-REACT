@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=Contrail+One&family=Poppins:wght@200&family=Roboto+Condensed:wght@300&family=Ubuntu&family=Varela+Round&display=swap');
+  *{
+     font-family: 'Poppins',sans-serif;
+  }
+
+.container
+{
+ width: 80%;
+ margin: auto; 
+}
+
+.michroma{
+  font-family: 'Michroma', sans-serif;
+}
+
+.orbitron
+{
+  font-family: 'Orbitron',sans-serif;
+}
+
+.btn{
+  background-color: aqua;
+  color: black;
+  padding: 1rem;
+  border: none;
+ 
+  border-radius: 30px 30px 30px 30px;
+  padding: 0.7rem 2rem 0.7rem 2rem;
+  font-size: 1rem;
+  cursor: pointer;
+
+}
+
+.btn-primary{
+  background-color: #667fea;
+  color: white;
+}
+
+.btn-primary:hover{
+  background-color: #edf2f7;
+}
+
+.btn-secondary
+{
+  background-color: #edf2f7;
+  border: 2px solid #728197;
+  color: #728197;
+}
+
+.btn-secondary:hover{
+  border: 1px solid #667FEA;
+}
